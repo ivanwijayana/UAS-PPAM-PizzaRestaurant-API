@@ -5,25 +5,24 @@
 ` https://retoolapi.dev/StWODX/uasresto `
 
 ### Internet Connectivity
-![Screenshot]( img/int.png )
+![int](img/int.PNG "int")
 
 ### Screenshoot
 ##### Dependencies
-![Screenshot]( img/dep.png )
-
+![dep](img/dep.PNG "Dep")
 ##### GET API
-![Screenshot]( img/get.png )
+![dep](img/get.PNG "get")
 
 ##### Page 1
-![Screenshot]( img/1.png )
+![1](img/1.jpg "1")
 
 ##### Page 2
-![Screenshot]( img/2.png )
+![2](img/2.jpg "3")
 ##### Page 3
-![Screenshot]( img/3.png )
+![3](img/3.jpg "3")
 
 ##### Page 4
-![Screenshot]( img/4.png )
+![4](img/4.jpg "4")
 
 ##### Page 5
-![Screenshot]( img/5.png )
+![5](img/5.jpg "5")
